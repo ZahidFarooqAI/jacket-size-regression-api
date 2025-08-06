@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+
+# Data science libraries
+numpy
+pandas
+scikit-learn
+
+# Optional: if you're doing visualization, use these too
+matplotlib
+seaborn
